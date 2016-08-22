@@ -2,5 +2,17 @@ When would you want to use a remote repository rather than keeping all your work
   a remote repository is useful if you want to share your work with other people.
   Or if you want to acces it from other devices.
 
-Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+Why might you want to always pull changes manually rather than having Git automatically
+stay up-to-date with your remote repository?
     Maybe someone else can add something but you dont want it in your master branch.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+    Forks means to clone a github repository in to your own github repository. I think fork can
+    be used if I want to make my own changes to a code but I am not allowed to make changes to
+    the original. This is probably what is meant by open-source.
+
+    Clones means to make a copy of the repository from github to your local computer.
+
+    Branches is when your repository has different commit that you didnt want to
+    save in the master branch. In the Lesson we made a easy-mode branch, which was
+    just an easier version of the original(master) branch
