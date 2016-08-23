@@ -24,3 +24,8 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 be harder?
 
     I would use google docs. It would be easier to learn but harder to manage.
+
+When would you want to make changes in a separate branch rather than directly in master? What
+benefits does each approach have?
+
+    If you want feed back before it is commited into the master .
