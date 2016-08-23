@@ -16,3 +16,6 @@ Describe the differences between forks, clones, and branches. When would you use
     Branches is when your repository has different commit that you didnt want to
     save in the master branch. In the Lesson we made a easy-mode branch, which was
     just an easier version of the original(master) branch
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+    you can work on it if you dont have internet access/
